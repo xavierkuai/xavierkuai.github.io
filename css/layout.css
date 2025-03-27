@@ -325,6 +325,12 @@ fieldset[disabled] .btn-theme {
   line-height: 1;
 }
 
+.promo-block .promo-block-title2 {
+  font-size: 50px;
+  color: #fff;
+  line-height: 1;
+}
+
 @media (max-width: 480px) {
   .promo-block .promo-block-title {
     font-size: 50px;
